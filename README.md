@@ -1,4 +1,4 @@
-# Run Chat
+# yjs-chat
 - pnpm run server
-- pnpm i    
-- pnpm start 
+- pnpm i
+- pnpm start
