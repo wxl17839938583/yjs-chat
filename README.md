@@ -1,4 +1,4 @@
 # yjs-chat
-- pnpm run server
 - pnpm i
-- pnpm start
+- pnpm run server 
+- pnpm start 新建终端
